@@ -1,0 +1,2 @@
+# Android-OSGI-PoC
+This Project is all about how to develop Android Application as a plugin environment like Eclipse. This Sample Application (Source code will be disclosed after explicit permission from my employer) shows how we can configure an Android application from a Java Server. The user chooses a set of Components on a Java Server and the Android application only downloads and initiates those modules (exactly like an Eclipse Plugin does with out any restarts)
