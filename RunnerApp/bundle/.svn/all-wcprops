@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/109/trunk/FelixTryout/RunnerApp/bundle
+END
+slf4j-api-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/102/trunk/FelixTryout/RunnerApp/bundle/slf4j-api-1.4.3.jar
+END
+slf4j-simple-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/FelixTryout/RunnerApp/bundle/slf4j-simple-1.4.3.jar
+END
+org.apache.felix.shell-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/101/trunk/FelixTryout/RunnerApp/bundle/org.apache.felix.shell-1.0.0.jar
+END
+org.apache.felix.shell.tui-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101/trunk/FelixTryout/RunnerApp/bundle/org.apache.felix.shell.tui-1.0.0.jar
+END
+org.apache.felix.http.jetty-0.9.0-GRIDSHORE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/109/trunk/FelixTryout/RunnerApp/bundle/org.apache.felix.http.jetty-0.9.0-GRIDSHORE.jar
+END
+org.osgi.compendium-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/109/trunk/FelixTryout/RunnerApp/bundle/org.osgi.compendium-1.0.0.jar
+END
